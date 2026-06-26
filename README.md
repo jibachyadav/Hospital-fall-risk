@@ -1,10 +1,10 @@
-# Hospital Patient Fall Risk Detection
+# Fall-Risk-Detection
 
-A real-time fall risk detection system for hospital patients using computer vision and machine learning.
+A real-time fall risk detection system for using computer vision and machine learning.
 
 ## Overview
 
-This system uses a webcam feed to detect patient poses in real-time, extracts biomechanical features using MediaPipe, and classifies fall risk into three levels: **safe**, **medium_risk**, and **high_risk**.
+This system uses a webcam feed to detect  poses in real-time, extracts biomechanical features using MediaPipe, and classifies fall risk into three levels: **safe**, **medium_risk**, and **high_risk**.
 
 ## Architecture
 ## Tech Stack
